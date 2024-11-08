@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+}
+h1 {
+    text-align: center;
+}
+form {
+    margin-bottom: 20px;
+}
+input, textarea {
+    width: 100%;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+button {
+    padding: 10px;
+}
+#entries {
+    border-top: 1px solid #ddd;
+    padding-top: 10px;
+}
+.entry {
+    border-bottom: 1px solid #ddd;
+    padding: 10px 0;
+}
